@@ -118,7 +118,7 @@ body label {
 
 .logform {
   background-color: var(--color-blanco);
-  border: 1vw solid var(--color-acento);
+  border: 0.5vw solid var(--color-acento);
   border-radius: 3vw;
   padding: 2% 30%;
   text-align: center;
