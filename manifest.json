@@ -1,13 +1,13 @@
 {
   "name": "mis PWA en github",
   "short_name": "mis Apps",
-  "start_url": "/app",
+  "start_url": "/apps",
   "display": "fullscreen",  
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": [
    {
-      "src": "/app/paraguas192x192.png",
+      "src": "/apps/paraguas192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }      
