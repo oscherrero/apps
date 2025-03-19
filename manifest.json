@@ -6,10 +6,15 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "icons": [
-   {
+    {
+      "src": "/apps/paraguas100x100.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },    
+    {
       "src": "/apps/paraguas192x192.png",
       "sizes": "192x192",
       "type": "image/png"
-    }      
+    },  
   ]
 }
