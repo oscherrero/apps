@@ -169,19 +169,6 @@ body label {
   cursor: pointer;
 }
 
-.imagenEspera{
-  position:absolute;
-  bottom:0;
-  top:0;    
-  width:100%;
-  display:flex; 
-  flex-direction: column;
-  justify-content: center; 
-  align-items: center;
-  img{  
-    width: min(50vw,50vh);
-  }
-}
 
 footer {
   position: fixed; /* Fija el footer en la parte inferior */
@@ -198,14 +185,6 @@ footer p {
   font-size: 1rem;
 }
 
-.oculto {
-  display: none
-}
-
-.chiste {
-  margin: 4vw 0 4vw 0;
-  font-size: 1.5rem !important;
-}
 
     /* desktop */
     @media  (min-width: 900px) {
