@@ -1,6 +1,6 @@
 {
-  "name": "Consumos Pienso",
-  "short_name": "Piensos",
+  "name": "PWA en github",
+  "short_name": "mis Apps",
   "start_url": "/app",
   "display": "fullscreen",  
   "theme_color": "#000000",
