@@ -120,7 +120,7 @@ body label {
   background-color: var(--color-blanco);
   border: 0.5vw solid var(--color-acento);
   border-radius: 3vw;
-  padding: 2% 30%;
+  padding: 2% 20%;
   text-align: center;
   color: var(--color-acento);
   display: flex;
